@@ -1,0 +1,30 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireIII FlakingBullet Producer",
+	"description": "produce Modular Turret tireIII Flakingbullet",
+	"outputItem": { "item": "flakingTIII", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity":50,
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "producesmoke",
+	"consumes": {
+		"power":3.0,
+		"liquid":{"liquid":"lubricating-oil","amount":0.2},
+		"items": {
+			"items": [
+				{ "item": "commonTIII", "amount": 1 },
+				{ "item": "plastanium", "amount":3}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 300 },
+		{"item":"thorium","amount":150},
+		{"item":"plastanium","amount":150}
+	],
+	"category": "crafting",
+	"research": "commonTIII-producer"
+}

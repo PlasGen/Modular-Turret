@@ -1,0 +1,28 @@
+{
+	"type":"LiquidConverter",
+	"name":"Lubricating Oil Mixer",
+	"description":"Mix the Oil and Coal to Lubricating Oil for Modular Turrets",
+	"liquidCapacity":100,
+	"size":2,
+	"outputLiquid":{"liquid":"lubricating-oil","amount":12},
+	"hasPower":true,
+	"hasLiquid":true,
+	"hasItem":true,
+	"craftTime":30,
+	"updateEffect":"wet",
+	"consumes":{
+		"power":1.0,
+		"items":{
+			"items":[{"item":"coal","amount":2}]
+		},
+		"liquid":{"liquid":"oil","amount":0.2}
+	},
+	"requirements":[
+	{"item":"lead","amount":100},
+	{"item":"titanium","amount":80},
+	{"item":"silicon","amount":50},
+	{"item":"metaglass","amount":50}
+	],
+	"category":"crafting",
+	"research":"mtt1"
+}

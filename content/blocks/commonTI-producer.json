@@ -1,0 +1,26 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireI BasicBullet Producer",
+	"description": "produce Modular Turret tireI Basicbullet",
+	"outputItem": { "item": "commonTI", "amount": 1},
+	"size": 2,
+	"hasPower": false,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 30,
+	"updateEffect": "producesmoke",
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "copper", "amount": 2 },
+				{ "item": "lead", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 200 },
+		{ "item": "lead", "amount": 120 }
+	],
+	"category": "crafting",
+	"research": "mtt1"
+}

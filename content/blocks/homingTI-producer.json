@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireI HomingBullet Producer",
+	"description": "produce Modular Turret tireI Homingbullet",
+	"outputItem": { "item": "homingTI", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 45,
+	"updateEffect": "producesmoke",
+	"consumes": {
+		"power":0.5,
+		"items": {
+			"items": [
+				{ "item": "commonTI", "amount": 1 },
+				{ "item": "graphite", "amount": 2 },
+				{"item":"silicon","amount":2}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 100 },
+		{ "item": "lead", "amount": 100 },
+		{"item":"graphite","amount":50}
+	],
+	"category": "crafting",
+	"research": "commonTI-producer"
+}

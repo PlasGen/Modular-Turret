@@ -1,0 +1,8 @@
+{
+	"type":"resource",
+	"name":"Modular Turret TireIII Bullet",
+	"description":"A bullet use in Modular Turret Tire III",
+	"color":"81e600",
+	"flammability":0.6,
+	"explosiveness":0.2
+}

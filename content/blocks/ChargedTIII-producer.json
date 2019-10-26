@@ -1,0 +1,33 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireIII ChargedBullet Producer",
+	"description": "produce Modular Turret tireIII Chargedbullet",
+	"outputItem": { "item": "ChargedTIII", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity":50,
+	"hasItems": true,
+	"craftTime": 150,
+	"updateEffect": "shockwave",
+	"consumes": {
+		"power":10.0,
+		"liquid":{"liquid":"lubricating-oil","amount":0.3},
+		"items": {
+			"items": [
+				{ "item": "hotTIII", "amount": 1 },
+				{ "item": "graphite", "amount":2},
+				{"item":"surge-alloy","amount":1},
+				{"item":"phase-fabric","amount":1}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 300 },
+		{ "item": "silicon", "amount": 200 },
+		{"item":"thorium","amount":150},
+		{"item":"phase-fabric","amount":80}
+	],
+	"category": "crafting",
+	"research": "hotTIII-producer"
+}

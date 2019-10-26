@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireII BasicBullet Producer",
+	"description": "produce Modular Turret tireII Basicbullet",
+	"outputItem": { "item": "commonTII", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "pulverize",
+	"consumes": {
+		"power":1.0,
+		"items": {
+			"items": [
+				{ "item": "commonTI", "amount": 2 },
+				{ "item": "titanium", "amount": 2 },
+				{"item":"metaglass","amount":1}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 200 },
+		{ "item": "metaglass", "amount": 120 },
+		{"item":"silicon","amount":80}
+	],
+	"category": "crafting",
+	"research": "mtt2"
+}

@@ -1,0 +1,8 @@
+{
+	"type":"resource",
+	"name":"Modular Turret TireII Bullet(splash)",
+	"description":"A bullet use in Modular Turret Tire II",
+	"color":"37a3ae",
+	"flammability":0.6,
+	"explosiveness":0.1
+}

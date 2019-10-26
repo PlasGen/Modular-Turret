@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireII SplashBullet Producer",
+	"description": "produce Modular Turret tireII Splashbullet",
+	"outputItem": { "item": "splashTII", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "producesmoke",
+	"consumes": {
+	 	"power":1.5,
+		"items": {
+			"items": [
+				{ "item": "commonTII", "amount": 1 },
+				{ "item": "metaglass", "amount": 3 },
+				{"item":"plastanium","amount":1}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 300 },
+		{ "item": "plastanium", "amount": 50 },
+		{"item":"copper","amount":150}
+	],
+	"category": "crafting",
+	"research": "commonTII-producer"
+}

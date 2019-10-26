@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireIII BasicBullet Producer",
+	"description": "produce Modular Turret tireIII Basicbullet",
+	"outputItem": { "item": "commonTIII", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity":50,
+	"hasItems": true,
+	"craftTime": 90,
+	"updateEffect": "producesmoke",
+	"consumes": {
+		"power":2.0,
+		"liquid":{"liquid":"lubricating-oil","amount":0.2},
+		"items": {
+			"items": [
+				{ "item": "commonTII", "amount": 2 },
+				{ "item": "thorium", "amount":2}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 300 },
+		{ "item": "lead", "amount": 200 },
+		{"item":"thorium","amount":80},
+		{"item":"plastanium","amount":50}
+	],
+	"category": "crafting",
+	"research": "mtt3"
+}
