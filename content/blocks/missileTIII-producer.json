@@ -1,0 +1,33 @@
+{
+	"type": "GenericCrafter",
+	"name": "TireIII MillileBullet Producer",
+	"description": "produce Modular Turret tireIII Missilebullet",
+	"outputItem": { "item": "missileTIII", "amount": 1},
+	"size": 4,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 450,
+	"updateEffect": "producesmoke",
+	"consumes": {
+		"power":7.0,
+		"liquid":{"liquid":"lubricating-oil","amount":0.2},
+		"items": {
+			"items": [
+				{ "item": "metaglass", "amount": 20 },
+				{ "item": "blast-compound", "amount":75},
+				{"item":"plastanium","amount":25},
+				{"item":"silicon","amount":30},
+				{"item":"graphite","amount":100}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 500 },
+		{ "item": "surge-alloy", "amount": 250 },
+		{"item":"silicon","amount":350},
+		{"item":"phase-fabric","amount":150}
+	],
+	"category": "crafting",
+	"research": "ChargedTIII-producer"
+}

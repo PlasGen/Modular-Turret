@@ -1,0 +1,8 @@
+{
+	"type":"resource",
+	"name":"Missile Launcher Basicbullet",
+	"description":"A bullet use in Missile Launcher",
+	"color":"929292",
+	"flammability":0.1,
+	"explosiveness":1.0
+}

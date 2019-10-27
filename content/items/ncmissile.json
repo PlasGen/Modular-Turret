@@ -1,0 +1,8 @@
+{
+	"type":"resource",
+	"name":"Nuclear Missile",
+	"description":"A bullet use in Missile laucher",
+	"color":"fff100",
+	"flammability":0.3,
+	"explosiveness":0.5
+}
