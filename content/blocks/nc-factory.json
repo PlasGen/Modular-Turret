@@ -7,6 +7,8 @@
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
+	"itemCapacity":300,
+	"liquidCapacity":500,
 	"craftTime": 600,
 	"updateEffect": "producesmoke",
 	"consumes": {

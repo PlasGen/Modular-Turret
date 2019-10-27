@@ -39,6 +39,7 @@
 	"health":1000,
 	"inaccuracy":2,
 	"recoil":2,
+	"liquidCapacity":100,
 	"targetAir":true,
 	"targetGround":true,
 	"shots":2,

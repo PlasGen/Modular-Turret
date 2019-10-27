@@ -59,6 +59,7 @@
 	"health":2500,
 	"inaccuracy":1,
 	"recoil":3,
+	"liquidCapacity":100,
 	"targetAir":true,
 	"targetGround":true,
 	"ammoPerShot":4,
