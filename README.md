@@ -3,6 +3,8 @@ An Mindustry mod
 
 discord server https://discord.gg/H6Ctgph
 
+Steam workshop link https://steamcommunity.com/sharedfiles/filedetails/?id=1898861971&searchtext=
+
 A Modular turret mod,which can modify turret by using different type of bullet
 
 Tier 1 bullet: standard and tracking
@@ -28,6 +30,6 @@ charged:damage 75 ability:pierce,lightning,tracking,burning
 range 26.2
 reload time 0.1
 
-Missiles launcher standard:damage 2500 splash damage 700 range 20,ability:knockback,reload time 7.5s
-nuclear:damage 8000 splash damage 2000 range 20,ability:knockback,reload time 15s
+Missiles launcher standard:damage 750 splash damage 250 range 20,ability:knockback,reload time 7.5s
+nuclear:damage 2500 splash damage 1000 range 20,ability:knockback,reload time 15s
 range 100
