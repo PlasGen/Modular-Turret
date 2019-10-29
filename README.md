@@ -1,6 +1,8 @@
 # Modular-Turret
 An Mindustry mod
 
+discord server https://discord.gg/H6Ctgph
+
 A Modular turret mod,which can modify turret by using different type of bullet
 
 Tier 1 bullet: standard and tracking
