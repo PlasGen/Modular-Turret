@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "TireIII ChargedBullet Producer",
-	"description": "produce Modular Turret tireIII Chargedbullet",
+	"name": "TierIII ChargedBullet Producer",
+	"description": "produce Modular Turret tierIII Chargedbullet",
 	"outputItem": { "item": "ChargedTIII", "amount": 1},
 	"size": 3,
 	"hasPower": true,
