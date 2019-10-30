@@ -1,6 +1,6 @@
 # Modular-Turret-English-Translation-Fix
 A Mindustry mod
-
+[NOT FINISHED TRANSLATING]
 -Fixed English translations
 
 If the owner of the mod is reading this, you can copy the files for the english translations and put it into your official mod with the next update or something.
