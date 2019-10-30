@@ -1,11 +1,13 @@
-# Modular-Turret
+# Modular-Turret-English-Translation-Fix
 An Mindustry mod
+Fixed English translations
+If the owner of the mod is reading this, you can copy the files for the english translations and put it into your official mod with the next update or something.
 
-discord server https://discord.gg/H6Ctgph
+The owner's discord server: https://discord.gg/H6Ctgph
 
-Steam workshop link https://steamcommunity.com/sharedfiles/filedetails/?id=1898861971&searchtext=
+Steam workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=1898861971&searchtext=
 
-A Modular turret mod,which can modify turret by using different type of bullet
+A Modular turret mod, which can modify turret by using different type of bullet
 
 Tier 1 bullet: standard and tracking
 Tier 2 bullet: standard,missile and splash
