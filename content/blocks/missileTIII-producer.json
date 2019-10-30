@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "TireIII MillileBullet Producer",
-	"description": "produce Modular Turret tireIII Missilebullet",
+	"name": "TierIII MillileBullet Producer",
+	"description": "produce Modular Turret tierIII Missilebullet",
 	"outputItem": { "item": "missileTIII", "amount": 1},
 	"size": 4,
 	"hasPower": true,
