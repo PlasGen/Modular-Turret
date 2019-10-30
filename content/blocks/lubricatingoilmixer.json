@@ -1,7 +1,7 @@
 {
 	"type":"LiquidConverter",
 	"name":"Lubricating Oil Mixer",
-	"description":"Mix the Oil and Coal to Lubricating Oil for Modular Turrets",
+	"description":"Mix the Oil and Coal to make Lubricating Oil for Modular Turrets",
 	"liquidCapacity":100,
 	"size":2,
 	"outputLiquid":{"liquid":"lubricating-oil","amount":12},
