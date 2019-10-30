@@ -1,7 +1,7 @@
 {
 	"type":"DoubleTurret",
-	"name":"Mudular Turret TireIII",
-	"description":"The tireIII mudular turret,which can use tireI bullet",
+	"name":"Modular Turret TierIII",
+	"description":"The tireIII modular turret, can use tierIII bullets",
 	"ammo":{
 		"commonTIII":{
 			"bulletWidth":15,
