@@ -1,7 +1,7 @@
 {
 	"type":"ItemTurret",
-	"name":"Mudular Turret TireI",
-	"description":"The tireI mudular turret,which can use tireI bullet",
+	"name":"Modular Turret TierI",
+	"description":"The tierI modular turret that can use tierI bullets",
 	"ammo":{
 		"commonTI":{
 			"bulletWidth":10,
