@@ -1,7 +1,13 @@
 # Modular-Turret-English-Translation-Fix
 A Mindustry mod
-[NOT FINISHED TRANSLATING]
+
+[Finished Translating; TranslationV1]
+
 -Fixed English translations
+
+Translator: HNU Founder
+My discord: HNU Founder#5046
+Owner's discord: Plas_Gensokyo#0589
 
 If the owner of the mod is reading this, you can copy the files for the english translations and put it into your official mod with the next update or something.
 
