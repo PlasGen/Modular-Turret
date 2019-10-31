@@ -6,7 +6,9 @@ A Mindustry mod
 -Fixed English translations
 
 Translator: HNU Founder
+
 Translator’s discord: HNU Founder#5046
+
 Owner's discord: Plas_Gensokyo#0589
 
 The owner's discord server: https://discord.gg/H6Ctgph
