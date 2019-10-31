@@ -16,9 +16,9 @@
 		"liquid":{"liquid":"cryofluid","amount":0.5},
 		"items": {
 			"items": [
-				{ "item": "thorium", "amount": 150 },
+				{ "item": "thorium", "amount": 75 },
 				{ "item": "graphite", "amount": 25 },
-				{"item":"plastanium","amount":75},
+				{"item":"plastanium","amount":50},
 				{"item":"silicon","amount":25},
 				{"item":"blast-compound","amount":30}
 			]
