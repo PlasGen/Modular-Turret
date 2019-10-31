@@ -17,10 +17,10 @@
 		"items": {
 			"items": [
 				{ "item": "metaglass", "amount": 20 },
-				{ "item": "blast-compound", "amount":75},
+				{ "item": "blast-compound", "amount":40},
 				{"item":"plastanium","amount":25},
 				{"item":"silicon","amount":30},
-				{"item":"graphite","amount":100}
+				{"item":"graphite","amount":50}
 			]
 		}
 	},
