@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "TireI HomingBullet Producer",
-	"description": "produce Modular Turret tireI Homingbullet",
+	"name": "TierI HomingBullet Producer",
+	"description": "produce Modular Turret tierI Homingbullet",
 	"outputItem": { "item": "homingTI", "amount": 1},
 	"size": 2,
 	"hasPower": true,

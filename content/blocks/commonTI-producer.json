@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "TireI BasicBullet Producer",
-	"description": "produce Modular Turret tireI Basicbullet",
+	"name": "TierI BasicBullet Producer",
+	"description": "produce Modular Turret tierI Basicbullet",
 	"outputItem": { "item": "commonTI", "amount": 1},
 	"size": 2,
 	"hasPower": false,

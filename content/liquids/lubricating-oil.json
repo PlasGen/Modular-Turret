@@ -1,6 +1,6 @@
 {
 	"name":"lubricating oil",
-	"descrption":"a type of oil can reduce the heat which produce when turret shoots",
+	"descrption":"a type of oil that can reduce the heat which produce when a modular turret shoots",
 	"color":"ffff00",
 	"flammability":0,
 	"temperature":0.5,

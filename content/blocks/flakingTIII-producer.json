@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "TireIII FlakingBullet Producer",
-	"description": "produce Modular Turret tireIII Flakingbullet",
+	"name": "TierIII FlakingBullet Producer",
+	"description": "produce Modular Turret tierIII Flakingbullet",
 	"outputItem": { "item": "flakingTIII", "amount": 1},
 	"size": 3,
 	"hasPower": true,

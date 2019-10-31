@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "NuclearMissile Producer",
-	"description": "produce Nuclear Missile",
+	"name": "Nuclear Missile Producer",
+	"description": "Produces Nuclear Missiles",
 	"outputItem": { "item": "ncmissile", "amount": 1},
 	"size": 4,
 	"hasPower": true,

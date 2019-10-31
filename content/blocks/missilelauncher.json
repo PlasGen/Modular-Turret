@@ -1,7 +1,7 @@
 {
 	"type":"ArtilleryTurret",
 	"name":"Missile Launcher",
-	"description":"The Missile Launcher,which can launch tierIII missile and nuclear missile",
+	"description":"The Missile Launcher that can launch tierIII missiles and nuclear missiles",
 	"ammo":{
 		"missileTIII":{
 			"hitEffect":"shockwave",

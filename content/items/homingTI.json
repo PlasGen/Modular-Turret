@@ -1,7 +1,7 @@
 {
 	"type":"resource",
-	"name":"Modular Turret TireI Bullet(homing)",
-	"description":"A bullet use in Modular Turret Tire I",
+	"name":"Modular Turret TierI Bullet (homing)",
+	"description":"A bullet used in Modular Turret TierI",
 	"color":"e66b6e",
 	"flammability":0.5,
 	"explosiveness":0

@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
-	"name": "TireIII HotBullet Producer",
-	"description": "produce Modular Turret tireIII Hotbullet",
+	"name": "TierIII HotBullet Producer",
+	"description": "produce Modular Turret tierIII Hotbullet",
 	"outputItem": { "item": "hotTIII", "amount": 1},
 	"size": 3,
 	"hasPower": true,
