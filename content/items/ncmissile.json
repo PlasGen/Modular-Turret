@@ -1,7 +1,7 @@
 {
 	"type":"resource",
 	"name":"Nuclear Missile",
-	"description":"A bullet use in Missile laucher",
+	"description":"A powerful bullet used in the Missile laucher turret",
 	"color":"fff100",
 	"flammability":0.3,
 	"explosiveness":0.5
