@@ -1,7 +1,7 @@
 {
 	"type":"resource",
-	"name":"Modular Turret TireII Bullet",
-	"description":"A bullet use in Modular Turret Tire II",
+	"name":"TierII modular Turret bullet",
+	"description":"A bullet used in Modular Turret TierII",
 	"color":"3a8600",
 	"flammability":0.6,
 	"explosiveness":0.1
