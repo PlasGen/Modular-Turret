@@ -50,10 +50,9 @@
 		"liquid":{"liquid": "lubricating-oil", "amount":0.3,"booster":true}
 	},
 	"requirements":[
-		{"item":"copper","amount":100},
-		{"item":"lead","amount":80},
-		{"item":"silicon","amount":25},
-		{"item":"graphite","amount":10}
+		{"item":"copper","amount":80},
+		{"item":"lead","amount":50},
+		{"item":"silicon","amount":25}
 		],
 	"research":"duo",
 	"category":"turret"
