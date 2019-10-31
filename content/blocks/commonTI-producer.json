@@ -13,7 +13,7 @@
 		"items": {
 			"items": [
 				{ "item": "copper", "amount": 2 },
-				{ "item": "lead", "amount": 2 }
+				{ "item": "lead", "amount": 1 }
 			]
 		}
 	},
