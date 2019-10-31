@@ -1,7 +1,7 @@
 {
 	"type":"resource",
-	"name":"Missile Launcher Basicbullet",
-	"description":"A bullet use in Missile Launcher",
+	"name":"Missile Launcher Basic bullet",
+	"description":"A basic bullet used in a Missile Launcher turret",
 	"color":"929292",
 	"flammability":0.1,
 	"explosiveness":1.0
