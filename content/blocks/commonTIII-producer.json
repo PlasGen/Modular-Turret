@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "TierIII BasicBullet Producer",
+	"name": "TierIII Basic Bullet Producer",
 	"description": "produce Modular Turret tierIII Basicbullet",
 	"outputItem": { "item": "commonTIII", "amount": 1},
 	"size": 2,
