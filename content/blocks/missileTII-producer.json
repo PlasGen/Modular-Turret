@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "TierII Missile Bullet Producer",
+	"name": "TierII MissileBullet Producer",
 	"description": "produce Modular Turret tierII Missilebullet",
 	"outputItem": { "item": "missileTII", "amount": 1},
 	"size": 2,
